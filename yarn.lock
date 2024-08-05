@@ -6872,6 +6872,7 @@ __metadata:
   resolution: "api@workspace:api"
   dependencies:
     "@redwoodjs/api": "npm:7.7.3"
+    "@redwoodjs/api-server": "npm:7.7.3"
     "@redwoodjs/graphql-server": "npm:7.7.3"
   languageName: unknown
   linkType: soft
